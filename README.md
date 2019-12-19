@@ -1,8 +1,7 @@
 # suger-cups
-practice
+<br>practice
 simple equation converting grams into cups
 working with command line arg
-\n
-try make
-\n 
-./suger -s 200
+$ make
+$ ./suger -s 200
+<br>
