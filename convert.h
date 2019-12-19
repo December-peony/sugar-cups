@@ -1,1 +1,2 @@
-double equation(char* argv[]);
+
+double equation_s(char* argv[]);
