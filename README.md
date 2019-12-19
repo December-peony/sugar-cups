@@ -2,3 +2,7 @@
 practice
 simple equation converting grams into cups
 working with command line arg
+\n
+try make
+\n 
+./suger -s 200

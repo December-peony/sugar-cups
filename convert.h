@@ -1,2 +1,2 @@
 
-double equation_s(char x);
+double equation_s(char* x); 

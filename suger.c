@@ -7,7 +7,7 @@
 int main(int argc, char* argv[])
 {  if (argc > 1 )
   {
-    check( char* argv[]);
+    check(argv);
   }
    else 
   {  printf("You have to specify The material"); 
