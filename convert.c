@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
  
-double equation_s(char* argv[])
+double equation_s(char x)
 {
    int grams;
    double cups;
