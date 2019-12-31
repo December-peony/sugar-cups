@@ -10,7 +10,7 @@ void check(char* argv[])
    compare = strcmp(argv[1],"-s");
    if (compare == 0 ) //it's suger
 	{ 
-		cups =equation_s(argv[2]);
+		cups =equation_s(atoi(argv[2]));
 	}
    else {
 	printf("It's not suger\n");
