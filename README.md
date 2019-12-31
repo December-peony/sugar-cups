@@ -1,4 +1,4 @@
-# suger-cups
+# sugar-cups
 
 <br>This is not a full project, it's more like a practice for me to be famillier with git and also C.  
 The idea is the equation that converts grams into cups( standard cup 240 ml).  
